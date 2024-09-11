@@ -3,10 +3,10 @@
 
 ### 💻 my favorite stack:
 
-- React Native ❤
-- ReactJS & Styled-Components
-- NodeJS & Express
-- A little PHP
+- C++/C & Python
+- CMake & Makefile
+- Algorithms & Data Structures
+- gRPC & Protobuf
 - HTML & CSS
 
 ### 👧 a little about myself:
